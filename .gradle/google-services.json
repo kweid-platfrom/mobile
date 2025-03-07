@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404106955543",
+    "project_id": "kweidorigin",
+    "storage_bucket": "kweidorigin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404106955543:android:4bb47d78a2dd47407ac552",
+        "android_client_info": {
+          "package_name": "kwide.m.companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwekpFmAJwBux_aQgf7SvLR8WOkJ44_Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
